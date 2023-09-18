@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Roboto';
+    text-align: center;
+}
+
+ul, form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+}
+
+form > * {
+    margin: 10px;
+}
+
